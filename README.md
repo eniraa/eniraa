@@ -10,3 +10,5 @@ I've dabbled in:
 - JS
 
 Currently in USACO's gold division.
+
+![pyxiis's github stats](https://github-readme-stats.vercel.app/api?username=pyxiis)
