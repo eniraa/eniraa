@@ -11,4 +11,6 @@ I've dabbled in:
 
 Currently in USACO's gold division.
 
-![pyxiis's github stats](https://github-readme-stats.vercel.app/api?username=pyxiis)
+![pyxiis's github stats](https://github-readme-stats.vercel.app/api?username=pyxiis&include_all_commits=true&theme=tokyonight)
+
+![pyxiis's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxiis&layout=compact&theme=tokyonight)
