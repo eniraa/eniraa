@@ -9,6 +9,6 @@ I've dabbled in:
 - CSS
 - JS
 
-![pyxiis's github stats](https://github-readme-stats.vercel.app/api?username=pyxiis&include_all_commits=true&theme=tokyonight)
+![pyxiis's github stats](https://github-readme-stats.vercel.app/api?username=eniraa&include_all_commits=true&theme=tokyonight)
 
-![pyxiis's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxiis&layout=compact&theme=tokyonight)
+![pyxiis's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniraa&layout=compact&theme=tokyonight)
