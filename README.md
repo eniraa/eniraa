@@ -1,13 +1,13 @@
 Hello, I'm a secondary school student that occasionally programs.
 
 I've dabbled in:
-- Python
-- Ruby
-- Java
-- C++
-- HTML
-- CSS
-- JS
+- Python (main language)
+- Rust (main language)
+- Golang
+- Svelte
+- Ruby (code golf)
+- Bash
+- Java (AP Computer Science)
 
 ![pyxiis's github stats](https://github-readme-stats.vercel.app/api?username=eniraa&include_all_commits=true&theme=github_dark)
 
