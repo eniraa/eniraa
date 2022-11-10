@@ -1,4 +1,4 @@
-Hello, I'm a secondary school student that occasionally programs.
+Hello, I'm a college student that occasionally programs.
 
 I've dabbled in:
 - Python (main language)
